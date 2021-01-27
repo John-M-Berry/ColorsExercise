@@ -28,6 +28,18 @@ p{
     color: red;
 }
 
+
+/* li{
+    border: green;
+    border-width: 5px;
+    border-style: solid;
+} */
+<style>
+h1,
+h3 {
+    text-align: center;
+}
+
 .spec1 {
     color: hotpink;
 }
@@ -35,25 +47,10 @@ p{
     background-color: peachpuff;
 }
 
-/* li{
-    border: green;
-    border-width: 5px;
-    border-style: solid;
-} */
-    <style>
-        h1,
-        h3 {
-            text-align: center;
-        }
-
-        .todo {
+.spec3 {
             border: green;
     border-width: 5px;
     border-style: solid;
-        }
-
-        /* Style to all li element except todo class name */
-        li:not(.todo) {
-            
-        }
+        } 
+        
     </style>
