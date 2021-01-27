@@ -34,3 +34,9 @@ p{
 .spec2{
     background-color: peachpuff;
 }
+
+li{
+    border: green;
+    border-width: 5px;
+    border-style: solid;
+}
